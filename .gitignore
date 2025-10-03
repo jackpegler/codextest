@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+functions/lib
+functions/node_modules
+web/node_modules
+web/dist
+.DS_Store
+.firebase
+firestore-debug.log
+ui-debug.log
